@@ -41,7 +41,6 @@ toast.success("Workspace Created");
 };
   return (
     <Dialog open={open} onOpenChange={handleClose}>
-      <DialogTrigger></DialogTrigger>
       <DialogContent>
         <DialogHeader>
           <DialogTitle>Add a workspace</DialogTitle>
