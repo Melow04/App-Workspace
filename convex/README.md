@@ -1,5 +1,7 @@
 # Welcome to your Convex functions directory!
 
+<a href="https://wakatime.com/badge/user/9c692bbd-eefc-4907-a8f1-ba9002cc2cb2/project/ab460901-cd63-4cfc-a6cd-4fc02a10667e"><img src="https://wakatime.com/badge/user/9c692bbd-eefc-4907-a8f1-ba9002cc2cb2/project/ab460901-cd63-4cfc-a6cd-4fc02a10667e.svg" alt="wakatime"></a>
+
 Write your Convex functions here.
 See https://docs.convex.dev/functions for more.
 
