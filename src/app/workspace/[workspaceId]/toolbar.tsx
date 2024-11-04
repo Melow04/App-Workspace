@@ -8,7 +8,7 @@ const Toolbar = () => {
   const { data } = useGetWorkspace({ id: workspaceId });
 
   return (
-    <nav className="bg-[#7653a1] flex items-center justify-between h-10 p-1.5">
+    <nav className="bg-[#492249] flex items-center justify-between h-10 p-1.5">
       <div className="flex-1"/>
         <div className="min-w-[280px] max-[642px] grow-[2] shrink">
           <Button
